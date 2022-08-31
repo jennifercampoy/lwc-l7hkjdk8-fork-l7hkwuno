@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/jennifercampoy.lwc-l7hkjdk8-fork-l7hkwuno",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve jqEo8WjdkpL1hDhJNJUB --open"
+  }
+}
